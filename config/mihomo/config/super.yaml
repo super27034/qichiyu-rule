@@ -3,7 +3,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "订阅url"
+    url: "https://api.xmancdn.com/osubscribe.php?token2=yddwr44y-872ef228b4td78u0uk&sip002=1"
     type: http
     interval: 0
     health-check:
