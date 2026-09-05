@@ -2,8 +2,18 @@
 # 此配置不防DNS泄露，想使用防泄漏专业版本请使用同目录下另一个名字为mihomo的版本
 # 机场订阅
 proxy-providers:
-  Airport1:
+  F03:
     url: "https://api.xmancdn.com/osubscribe.php?token2=yddwr44y-872ef228b4td78u0uk&sip002=1"
+    type: http
+    interval: 0
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
+
+  SUPER10:
+    url: "https://ddyy.wudixingxing.com/link/lER3AXj2UwfzVk7Q?sub=3"
     type: http
     interval: 0
     health-check:
