@@ -92,8 +92,8 @@ dns:
 # 如果相应分组没有筛选到对应的国家，请根据自己节点名字调整筛选关键字。
 # 没有再使用锚点和icon图标，是考虑很多新手修改难度，这样新手修改某个分组更容易些。
 proxy-groups:
-  - {name: 🚀 Main Server, type: select, proxies: [🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 📹 YouTube, type: select, proxies: [🔯 US FB, 🔯 HK FB, 🔯 JP FB, 🔯 SG FB, ♻️ US auto, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🚀 Main Server, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 📹 YouTube, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 US FB, 🔯 HK FB, 🔯 JP FB, 🔯 SG FB, ♻️ US auto, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 🍀 Google, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 🤖 ChatGPT, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 👨🏿‍💻 GitHub, type: select, proxies: [🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
