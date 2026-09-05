@@ -92,21 +92,23 @@ dns:
 # 如果相应分组没有筛选到对应的国家，请根据自己节点名字调整筛选关键字。
 # 没有再使用锚点和icon图标，是考虑很多新手修改难度，这样新手修改某个分组更容易些。
 proxy-groups:
-  - {name: 🚀 Main Server, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 📹 YouTube, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 US FB, 🔯 HK FB, 🔯 JP FB, 🔯 SG FB, ♻️ US auto, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🍀 Google, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🤖 ChatGPT, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 👨🏿‍💻 GitHub, type: select, proxies: [🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🐬 OneDrive, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: Ⓜ️ Microsoft, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🎵 TikTok, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 📲 Telegram, type: select, proxies: [🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🎥 NETFLIX, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 SG FB, 🔯 HK FB, 🔯 JP FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 💶 PayPal, type: select, proxies: [🔯 JP FB, 🔯 HK FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🐟 Missed, type: select, proxies: [🚀 Main Server, 🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🚀 Main Server, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🇨🇳 TW,🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 📹 YouTube, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 US FB, 🔯 HK FB, 🇨🇳 TW, 🔯 JP FB, 🔯 SG FB, ♻️ US auto, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🍀 Google, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 HK FB, 🇨🇳 TW, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🤖 ChatGPT, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 👨🏿‍💻 GitHub, type: select, proxies: [🔯 HK FB, 🇨🇳 TW, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🐬 OneDrive, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: Ⓜ️ Microsoft, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW,♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🎵 TikTok, type: select, proxies: [🔯 JP FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW,♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 📲 Telegram, type: select, proxies: [🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🎥 NETFLIX, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 SG FB, 🔯 HK FB, 🔯 JP FB, 🇨🇳 TW, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 💶 PayPal, type: select, proxies: [🔯 JP FB, 🔯 HK FB, 🔯 SG FB, 🔯 US FB, 🇨🇳 TW, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
+  - {name: 🐟 Missed, type: select, proxies: [🚀 Main Server, 🔯 HK FB, 🇨🇳 TW, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 🌸 Flower, type: select, include-all: true, filter: "(?=.*专线)^((?!(香港|HK|Hong Kong|🇭🇰|HongKong)).)*$"}
   - {name: 👍 Good TW, type: select, include-all: true, filter: "(?=.*台湾)^((?!(.*专线|.*Traffic|.*Expire|.*Lil|.*Large)).)*$"}
   - {name: 🇭🇰 HK, type: select, include-all: true, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美)).)*$"}
+  custom_proxy_group=🇨🇳 TW`url-test`(?=.*TW|.*Taiwan|.*台|.*新北)^((?!(.*Lil|.*Large|.*港)).)*$`http://www.gstatic.com/generate_204`300,,50
+  - {name: 🇨🇳 TW, type: select, include-all: true, filter: "(?=.*TW|.*Taiwan|.*台|.*新北))^((?!(.*Lil|.*Large|.*港)).)*$"}
   - {name: 🇯🇵 JP, type: select, include-all: true, filter: "(?=.*(日|JP|(?i)Japan))^((?!(港|台|韩|新|美)).)*$"}
   - {name: 🇸🇬 SG, type: select, include-all: true, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(台|日|韩|深|美)).)*$"}
   - {name: 🇺🇲 US, type: select, include-all: true, filter: "(?=.*(美|US|(?i)States|America))^((?!(港|台|韩|新|日)).)*$"}
