@@ -104,7 +104,7 @@ proxy-groups:
   - {name: 🎥 NETFLIX, type: select, proxies: [👍 Good TW, 🌸 Flower,🔯 SG FB, 🔯 HK FB, 🔯 JP FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 💶 PayPal, type: select, proxies: [🔯 JP FB, 🔯 HK FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
   - {name: 🐟 Missed, type: select, proxies: [🚀 Main Server, 🔯 HK FB, 🔯 JP FB, 🔯 SG FB, 🔯 US FB, ♻️ HK auto, ♻️ JP auto, ♻️ SG auto, ♻️ US auto, ♻️ Auto, 🇭🇰 HK, 🇯🇵 JP, 🇸🇬 SG, 🇺🇲 US, 🌐 All, Direct]}
-  - {name: 🌸 Flower, type: select, include-all: true, filter: "(?=.*中继)^((?!(香港|HK|Hong Kong|🇭🇰|HongKong)).)*$"}
+  - {name: 🌸 Flower, type: select, include-all: true, filter: "(?=.*专线)^((?!(香港|HK|Hong Kong|🇭🇰|HongKong)).)*$"}
   - {name: 👍 Good TW, type: select, include-all: true, filter: "(?=.*台湾)^((?!(.*专线|.*Traffic|.*Expire|.*Lil|.*Large)).)*$"}
   - {name: 🇭🇰 HK, type: select, include-all: true, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美)).)*$"}
   - {name: 🇯🇵 JP, type: select, include-all: true, filter: "(?=.*(日|JP|(?i)Japan))^((?!(港|台|韩|新|美)).)*$"}
